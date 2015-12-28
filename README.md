@@ -1,0 +1,3 @@
+# TestAndroidstudio
+
+这仅仅是一个测试从Androidstudio将项目直接导入到github上的一个测试程序
